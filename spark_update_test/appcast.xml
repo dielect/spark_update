@@ -8,7 +8,7 @@
             <sparkle:version>20150318.002</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dielect/spark_update/releases/download/untagged-6d34fda34130adef2d6e/spark_update_test.zip" length="954589" type="application/octet-stream" sparkle:edSignature="m/TLPGvQ7lVZNfqUJZb5N7ANucnRg/2+/FCiPRMy28QxkNzpqKn+Dabep9JGphbL5qcxC8lDgiODxKLswIWICw=="/>
+            <enclosure url="https://github.com/dielect/spark_update/releases/download/1.12/spark_update_test.zip" length="954589" type="application/octet-stream" sparkle:edSignature="m/TLPGvQ7lVZNfqUJZb5N7ANucnRg/2+/FCiPRMy28QxkNzpqKn+Dabep9JGphbL5qcxC8lDgiODxKLswIWICw=="/>
         </item>
     </channel>
 </rss>
