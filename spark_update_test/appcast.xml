@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>spark_update_test</title>
+        <item>
+            <title>1.1.1</title>
+            <pubDate>Tue, 18 Mar 2025 17:15:56 +0800</pubDate>
+            <sparkle:version>20150318.002</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/dielect/spark_update/refs/heads/main/spark_update_test/spark_update_test.zip" length="954589" type="application/octet-stream" sparkle:edSignature="m/TLPGvQ7lVZNfqUJZb5N7ANucnRg/2+/FCiPRMy28QxkNzpqKn+Dabep9JGphbL5qcxC8lDgiODxKLswIWICw=="/>
+        </item>
+    </channel>
+</rss>

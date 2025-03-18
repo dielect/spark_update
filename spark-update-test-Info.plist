@@ -2,10 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
 	<key>SUEnableInstallerLauncherService</key>
 	<true/>
 	<key>SUFeedURL</key>
-	<string></string>
+	<string>https://raw.githubusercontent.com/dielect/spark_update/refs/heads/main/spark_update_test/appcast.xml</string>
 	<key>SUPublicEDKey</key>
 	<string>BJQOZo+MbmFnFbdLNHlJoRiYWew/aiWTe+nKC+hjzJs=</string>
 </dict>
