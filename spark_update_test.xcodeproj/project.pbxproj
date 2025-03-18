@@ -260,7 +260,7 @@
 				CODE_SIGN_ENTITLEMENTS = spark_update_test/spark_update_test.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 20150318.002;
+				CURRENT_PROJECT_VERSION = 20150318.001;
 				DEVELOPMENT_ASSET_PATHS = "\"spark_update_test/Preview Content\"";
 				DEVELOPMENT_TEAM = WSSTS26A76;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -273,7 +273,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 1.1.1;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "composere.spark-update-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -289,7 +289,7 @@
 				CODE_SIGN_ENTITLEMENTS = spark_update_test/spark_update_test.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 20150318.002;
+				CURRENT_PROJECT_VERSION = 20150318.001;
 				DEVELOPMENT_ASSET_PATHS = "\"spark_update_test/Preview Content\"";
 				DEVELOPMENT_TEAM = WSSTS26A76;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -302,7 +302,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
-				MARKETING_VERSION = 1.1.1;
+				MARKETING_VERSION = 1.1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "composere.spark-update-test";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
